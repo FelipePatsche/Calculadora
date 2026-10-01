@@ -106,10 +106,15 @@ Possible errors:
       |-README.md
       |-calculator.c
 ```
+- |-images/: storage image.gif, that is the gif shown at [the start](#C-calculator)
+- |-.gitignore: is the file that tells Git what to ignore
+- LICENSE.md: is the [MIT license](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md) of this project
+- README.md: you're here
+- calculator.md: is the raw C file of this project
+         
+          
 ## License
 
 This project is under the MIT license.
 
 You can access the license of this project by going to the LICENSE.md file or clicking on this shortcut: [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
-
-
