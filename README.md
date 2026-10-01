@@ -89,6 +89,6 @@ Possible errors:
 ```
 ## License
 
-  Coming soon
+You can access the license of this project by going to the LICENSE.md file or clicking on this shortcut: [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
 
 
