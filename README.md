@@ -49,7 +49,7 @@ Digite o segundo número:
 ```
 So you write an integer or and decimal number for the __operator__, __only this__.
 
-Than the result apears, and after that it asks if you want to do other operatio or exit ('s' to 'yes' and 'n' to 'no'):
+Than the result apears, and after that it asks if you want to do other operation or exit ('s' to 'yes' and 'n' to 'no'):
 ```
 ===============================
 Calculadora Simples
