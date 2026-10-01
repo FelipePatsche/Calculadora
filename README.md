@@ -3,7 +3,7 @@
 
   [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
   
-<img width="440" height="220" alt="Gravando 2026-09-30 181103" src="https://github.com/user-attachments/assets/b41fbddc-2d71-4af5-b06a-de47a86d6a39" />
+<img width="355" height="168" alt="ezgif-80f4244d0e0c4714" src="https://github.com/user-attachments/assets/0ad23ec5-36c6-467a-88b4-1f122c0c7b88" />
 
 ## Prerequisites:
 
@@ -88,6 +88,8 @@ Possible errors:
       |-LICENSE.md
 ```
 ## License
+
+This project is under the MIT license.
 
 You can access the license of this project by going to the LICENSE.md file or clicking on this shortcut: [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
 
