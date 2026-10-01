@@ -3,7 +3,8 @@
 
   [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
   
-<img width="355" height="168" alt="ezgif-80f4244d0e0c4714" src="https://github.com/user-attachments/assets/0ad23ec5-36c6-467a-88b4-1f122c0c7b88" />
+  ![alt text](images/image.gif)
+
 
 ## Prerequisites
 
@@ -98,12 +99,12 @@ Possible errors:
 ## Structure
 ```Structure
   Calculadora/
+      |-images/
+          |_image.gif
       |-.gitignore
       |-LICENSE.md
       |-README.md
       |-calculator.c
-      |_images/
-          |_image.gif
 ```
 ## License
 
