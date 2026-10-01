@@ -23,11 +23,11 @@
 
   Calculadora/
   
-    |- abc.c
+  |-abc.c
     
-    |-README.md
+  |-README.md
     
-    |-LICENSE.md
+  |-LICENSE.md
 
 ## License
 
