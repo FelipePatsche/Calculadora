@@ -76,7 +76,7 @@ Obrigado por usar a calculadora! Até a próxima.
 ```
 Possible errors:
 - You can't divide by 0;
-- The bottom limit and the top limit is for ant integer or a decimal number is -2.147.483.648 and 2.147.483.647;
+- The bottom limit and the top limit for ant integer or a decimal number is -2.147.483.648 and 2.147.483.647;
 - It will respect up to 7 decimal digits.
 
 
