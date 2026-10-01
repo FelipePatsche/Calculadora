@@ -5,15 +5,18 @@
   
 <img width="355" height="168" alt="ezgif-80f4244d0e0c4714" src="https://github.com/user-attachments/assets/0ad23ec5-36c6-467a-88b4-1f122c0c7b88" />
 
-## Prerequisites:
+## Prerequisites
 
   - gcc 15 or above (guaranteed)
   - stdio (default library)
     
-### A little help:
+### A little help
 
   If you don't know too much about coding or you don't have gcc downloaded, use this shortcut to download and/or learn more:
     [Neps Academy](https://neps.academy/br/course/introducao-a-programacao/lesson/instalando-a-ide)
+
+## Instalation
+- Download everything that needs in the Prerequisite section [Prerequistes](#Prerequisites)
 
 ## Examples
 The first thing that apears is the interface. the user can select 
