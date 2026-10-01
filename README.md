@@ -1,6 +1,6 @@
 # C calculator
   The objective of this project is to enable most users to use a light calculator alternative.
-
+## Demonstration
   [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
   
   ![alt text](images/image.gif)
@@ -54,13 +54,13 @@ When you choose, something like this will apear:
 ```
 Digite o primeiro número:
 ```
-So you write an integer or and decimal number for the __operated__, __only this__.
+So you write an integer for the __operated__, __only this__.
 
 After that, apears:
 ```
 Digite o segundo número: 
 ```
-So you write an integer or and decimal number for the __operator__, __only this__.
+So you write an integer for the __operator__, __only this__.
 
 Than the result apears, after that, it asks if you want to do other operation or exit ('s' to 'yes' and 'n' to 'no'):
 ```
@@ -92,8 +92,7 @@ Obrigado por usar a calculadora! Até a próxima.
 ```
 Possible errors:
 - You can't divide by 0;
-- The bottom limit and the top limit for an integer or a decimal number is -2.147.483.648 and 2.147.483.647;
-- It will respect up to 7 decimal digits.
+- The bottom limit and the top limit for an integer is -2.147.483.648 and 2.147.483.647;
 
 
 ## Structure
@@ -106,7 +105,7 @@ Possible errors:
       |-README.md
       |-calculator.c
 ```
-- |-images/: storage image.gif, that is the gif shown at [the start](#C-calculator)
+- |-images/: storage image.gif, that is the gif shown at [Demonstration](#Demonstration) section
 - |-.gitignore: is the file that tells Git what to ignore
 - LICENSE.md: is the [MIT license](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md) of this project
 - README.md: you're here
