@@ -7,7 +7,7 @@
 
 ## Prerequisites
 
-  - gcc 15 or above (guaranteed)
+  - gcc 10 or above (guaranteed)
   - stdio (default library)
     
 ### A little help
@@ -16,16 +16,28 @@
     [Neps Academy](https://neps.academy/br/course/introducao-a-programacao/lesson/instalando-a-ide)
 
 ## Instalation
-- Download everything that needs in the Prerequisite section [Prerequistes](#Prerequisites)
-
+1. Download everything is needed in the Prerequisite section [Prerequistes](#Prerequisites)
+2. Download the project from [GitHub](https://github.com/FelipePatsche/Calculadora/archive/refs/heads/main.zip) or use git clone
+4. Open your terminal in the project folder and execute this:
+``` bash
+gcc calculator.c -o <choosed-name>.exe
+```
+4. On Windows, execute to run:
+```
+.\<choosed-name>.exe
+```
+on Linux or Mac execute:
+```
+./<choosed-name>
+```
 ## Examples
-The first thing that apears is the interface. the user can select 
-- to __add__ two numbers with the number __'1'__
-- to __subtract__ two numbers with the number __'2'__
-- to __multiply__ two numbers with the number __'3'__
-- to __divide__ two numbers with the number __'4'__
--  to __exit__ with the number __'5'__.
-```Interface
+The first thing that apears is the interface. the user can select :
+- to __add__ two numbers, with the number __'1'__;
+- to __subtract__ two numbers, with the number __'2'__;
+- to __multiply__ two numbers, with the number __'3'__;
+- to __divide__ two numbers, with the number __'4'__;
+-  to __exit__ with, the number __'5'__.
+```interface
   ===============================
   Calculadora Simples
   ===============================
@@ -86,9 +98,12 @@ Possible errors:
 ## Structure
 ```Structure
   Calculadora/
-      |-abc.c
-      |-README.md
+      |-.gitignore
       |-LICENSE.md
+      |-README.md
+      |-calculator.c
+      |_images/
+          |_image.gif
 ```
 ## License
 
