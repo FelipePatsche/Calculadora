@@ -17,9 +17,9 @@
     [Neps Academy](https://neps.academy/br/course/introducao-a-programacao/lesson/instalando-a-ide)
 
 ## Instalation
-1. Download everything is needed in the Prerequisite section [Prerequistes](#Prerequisites)
+1. Download everything is needed in the section [Prerequistes](#Prerequisites)
 2. Download the project from [GitHub](https://github.com/FelipePatsche/Calculadora/archive/refs/heads/main.zip) or use git clone
-4. Open your terminal in the project folder and execute this:
+3. Open your terminal in the project folder and execute this:
 ``` bash
 gcc calculator.c -o <choosed-name>.exe
 ```
@@ -62,7 +62,7 @@ Digite o segundo número:
 ```
 So you write an integer or and decimal number for the __operator__, __only this__.
 
-Than the result apears, and after that it asks if you want to do other operation or exit ('s' to 'yes' and 'n' to 'no'):
+Than the result apears, after that, it asks if you want to do other operation or exit ('s' to 'yes' and 'n' to 'no'):
 ```
 ===============================
 Calculadora Simples
@@ -92,7 +92,7 @@ Obrigado por usar a calculadora! Até a próxima.
 ```
 Possible errors:
 - You can't divide by 0;
-- The bottom limit and the top limit for ant integer or a decimal number is -2.147.483.648 and 2.147.483.647;
+- The bottom limit and the top limit for an integer or a decimal number is -2.147.483.648 and 2.147.483.647;
 - It will respect up to 7 decimal digits.
 
 
@@ -106,10 +106,15 @@ Possible errors:
       |-README.md
       |-calculator.c
 ```
+- |-images/: storage image.gif, that is the gif shown at [the start](#C-calculator)
+- |-.gitignore: is the file that tells Git what to ignore
+- LICENSE.md: is the [MIT license](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md) of this project
+- README.md: you're here
+- calculator.md: is the raw C file of this project
+         
+          
 ## License
 
 This project is under the MIT license.
 
 You can access the license of this project by going to the LICENSE.md file or clicking on this shortcut: [License: MIT](https://github.com/FelipePatsche/Calculadora/blob/main/LICENSE.md)
-
-
