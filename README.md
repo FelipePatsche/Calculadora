@@ -20,15 +20,12 @@
   Coming soon
   
 ##Structure
-
+```Structure
   Calculadora/
-  
-  |-abc.c
-    
-  |-README.md
-    
-  |-LICENSE.md
-
+      |-abc.c
+      |-README.md
+      |-LICENSE.md
+```
 ## License
 
   Coming soon
